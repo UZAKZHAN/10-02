@@ -1,0 +1,17 @@
+.container {
+    position: absolute;
+    width: 665px;
+    height: 575px;
+    left: 390px;
+    top: 250px;
+
+}
+
+input{
+    height: 48px;
+    border-radius: 8px;
+}
+
+input[aria-label="adress-1"]{
+    width: 409px;
+}
